@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741940023711",
+    "firebase_url": "https://my-location-1549538811483.firebaseio.com",
+    "project_id": "my-location-1549538811483",
+    "storage_bucket": "my-location-1549538811483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741940023711:android:b8a89b8519245aa6",
+        "android_client_info": {
+          "package_name": "com.mylektop.kotlinrealtimelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741940023711-vgg611rcc5ncsf2rk9ea7068udvesiq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mylektop.kotlinrealtimelocation",
+            "certificate_hash": "102d2b413d269057eb17fe8f73a8f3eca4013fc9"
+          }
+        },
+        {
+          "client_id": "741940023711-m2fvco9s8or2euh3kvaoerhbdmkcniue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ridw_cq4Y073LJTIfPOgG4hFbl5l_bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741940023711-m2fvco9s8or2euh3kvaoerhbdmkcniue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
